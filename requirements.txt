@@ -1,0 +1,4 @@
+streamlit
+tensorflow==2.18.0  # or the version of TensorFlow you're using
+Pillow
+numpy
